@@ -206,6 +206,7 @@ I believe in writing clean, maintainable code and implementing best practices th
 <div align="center">
   
 [![Javid Space](https://img.shields.io/badge/Javid%20Space-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://javid-space.cloud/)
+[![Manifesto](https://img.shields.io/badge/Manifesto-000000?style=for-the-badge&logo=react&logoColor=white)](https://manifesto.javid-space.cloud/)
 [![Transaction Flow Calculator](https://img.shields.io/badge/Transaction%20Flow%20Calculator-000000?style=for-the-badge&logo=calculator&logoColor=white)](https://transaction-flow-calculator.javid-space.cloud/)
 [![Virtual Wallet](https://img.shields.io/badge/Virtual%20Wallet-000000?style=for-the-badge&logo=wallet&logoColor=white)](https://virtual-wallet.javid-space.cloud/)
 
