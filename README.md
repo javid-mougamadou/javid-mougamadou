@@ -211,6 +211,7 @@ I believe in writing clean, maintainable code and implementing best practices th
 [![Virtual Wallet](https://img.shields.io/badge/Virtual%20Wallet-000000?style=for-the-badge&logo=wallet&logoColor=white)](https://virtual-wallet.javid-space.cloud/)
 [![Focus](https://img.shields.io/badge/Focus-000000?style=for-the-badge&logo=clock&logoColor=white)](https://focus.javid-space.cloud/)
 [![Checklist](https://img.shields.io/badge/Checklist-000000?style=for-the-badge&logo=checkmarx&logoColor=white)](https://checklist.javid-space.cloud/)
+[![Counter](https://img.shields.io/badge/Counter-000000?style=for-the-badge&logo=hash&logoColor=white)](https://counter.javid-space.cloud/)
 
 </div>
 
