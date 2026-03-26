@@ -201,6 +201,17 @@ I believe in writing clean, maintainable code and implementing best practices th
 
 ---
 
+## 📦 My Repos
+
+<div align="center">
+  
+[![Influxable](https://img.shields.io/badge/Influxable-000000?style=for-the-badge&logo=github&logoColor=white)](https://influxable.javid-space.cloud/)
+[![LLM Router](https://img.shields.io/badge/LLM%20Router-000000?style=for-the-badge&logo=github&logoColor=white)](https://llm-router.javid-space.cloud/)
+
+</div>
+
+---
+
 ## 🚀 My Apps
 
 <div align="center">
