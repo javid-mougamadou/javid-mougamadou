@@ -178,6 +178,8 @@ I believe in writing clean, maintainable code and implementing best practices th
 
 ## 📞 How to Reach Me
 
+**Contact :** **Javid Mougamadou**
+
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8rK6CKGb)
