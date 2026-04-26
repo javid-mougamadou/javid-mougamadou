@@ -214,10 +214,20 @@ I believe in writing clean, maintainable code and implementing best practices th
 
 ---
 
+## 💬 Chat with Me
+
+<div align="center">
+
+[![Chat with me](https://img.shields.io/badge/Chat%20with%20me-2563eb?style=for-the-badge&logo=chatbot&logoColor=white)](https://chatbot.javid-space.cloud/)
+
+</div>
+
+---
+
 ## 🚀 My Apps
 
 <div align="center">
-  
+
 [![Javid Space](https://img.shields.io/badge/Javid%20Space-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://javid-space.cloud/)
 [![Manifesto](https://img.shields.io/badge/Manifesto-000000?style=for-the-badge&logo=react&logoColor=white)](https://manifesto.javid-space.cloud/)
 [![Transaction Flow Calculator](https://img.shields.io/badge/Transaction%20Flow%20Calculator-000000?style=for-the-badge&logo=calculator&logoColor=white)](https://transaction-flow-calculator.javid-space.cloud/)
