@@ -241,8 +241,18 @@ I believe in writing clean, maintainable code and implementing best practices th
 
 ---
 
+## 🧩 My Extensions
+
 <div align="center">
-  
+
+[![Tab Suspender](https://img.shields.io/badge/Tab%20Suspender-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome-tab-suspender.javid-space.cloud/)
+
+</div>
+
+---
+
+<div align="center">
+
 ⭐️ **From [Javid Mougamadou](https://github.com/javid-mougamadou)** | *"Simple is better than complex"* - PEP 20
 
 </div>
