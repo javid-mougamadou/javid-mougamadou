@@ -209,6 +209,7 @@ I believe in writing clean, maintainable code and implementing best practices th
   
 [![Influxable](https://img.shields.io/badge/Influxable-000000?style=for-the-badge&logo=github&logoColor=white)](https://influxable.javid-space.cloud/)
 [![LLM Router](https://img.shields.io/badge/LLM%20Router-000000?style=for-the-badge&logo=github&logoColor=white)](https://llm-router.javid-space.cloud/)
+[![Claude Code Configurator](https://img.shields.io/badge/Claude%20Code%20Configurator-000000?style=for-the-badge&logo=github&logoColor=white)](https://claude-code-configurator.javid-space.cloud/)
 
 </div>
 
