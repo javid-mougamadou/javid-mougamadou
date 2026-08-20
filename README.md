@@ -239,6 +239,7 @@ I believe in writing clean, maintainable code and implementing best practices th
 [![Counter](https://img.shields.io/badge/Counter-000000?style=for-the-badge&logo=hash&logoColor=white)](https://counter.javid-space.cloud/)
 [![Countdown](https://img.shields.io/badge/Countdown-000000?style=for-the-badge&logo=clock&logoColor=white)](https://countdown.javid-space.cloud/)
 [![Expense Tracking](https://img.shields.io/badge/Expense%20Tracking-000000?style=for-the-badge&logo=receipt&logoColor=white)](https://expense-tracking.javid-space.cloud/)
+[![Journaling](https://img.shields.io/badge/Journaling-000000?style=for-the-badge&logo=googlekeep&logoColor=white)](https://journaling.javid-space.cloud/)
 
 </div>
 
