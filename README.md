@@ -242,6 +242,7 @@ I believe in writing clean, maintainable code and implementing best practices th
 [![Journaling](https://img.shields.io/badge/Journaling-000000?style=for-the-badge&logo=googlekeep&logoColor=white)](https://journaling.javid-space.cloud/)
 [![Conflict Helper](https://img.shields.io/badge/Conflict%20Helper-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://conflict-helper.javid-space.cloud/)
 [![Plan Charges](https://img.shields.io/badge/Plan%20Charges-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://plan-charges.javid-space.cloud/)
+[![Platform Studio](https://img.shields.io/badge/Platform%20Studio-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://platform-studio.javid-space.cloud/)
 
 </div>
 
