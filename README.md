@@ -1,6 +1,6 @@
 <!-- SEO Meta Tags -->
-<meta name="description" content="Javid Mougamadou - Senior Fullstack Developer specializing in Django, React, Docker, Kubernetes, and DevOps. 10+ years of experience, 20+ deployed applications.">
-<meta name="keywords" content="Fullstack Developer, Django, React, Docker, Kubernetes, DevOps, Python, JavaScript, Freelance Developer, Backend Developer, Frontend Developer">
+<meta name="description" content="Javid Mougamadou - Platform Engineer & Django Expert specializing in Internal Developer Platforms, Kubernetes, Backstage, and Agentic AI. 10+ years of experience, 20+ deployed applications.">
+<meta name="keywords" content="Platform Engineer, Internal Developer Platform, IDP, Backstage, Developer Portal, Django, Kubernetes, Docker, DevOps, Agentic AI, Python, Freelance Developer, Backend Developer">
 <meta name="author" content="Javid Mougamadou">
 
 <!-- Background Image Banner -->
@@ -15,12 +15,12 @@
 
 <div align="center">
   <h1>👋 Hi There! I'm Javid Mougamadou</h1>
-  <h2>Senior Fullstack Developer | Django/React & DevOps Expert</h2>
-  <p><strong>+10 years of experience</strong> | <strong>+20 deployed applications</strong> | Specialized in <strong>Docker, Kubernetes, CI/CD</strong> and <strong>Developer Experience</strong></p>
-  
-  <!-- PEP 20 Quote -->
+  <h2>Platform Engineer | Django Expert | Agentic AI</h2>
+  <p><strong>+10 years of experience</strong> | Internal Developer Platform for <strong>1,000+ developers</strong> at SAFRAN | <strong>+20 deployed applications</strong></p>
+
+  <!-- Hook -->
   <blockquote>
-    <p><em>"Simple is better than complex"</em> - PEP 20</p>
+    <p><em>"I'm not here to make your stack 'modern' — I'm here to make your developers ship in minutes, not weeks."</em></p>
   </blockquote>
 </div>
 
@@ -28,8 +28,9 @@
 
 ## 🧰 My Services
 
+- **Platform Engineering** - Self-service Internal Developer Platforms (IDP) & Developer Portals (Backstage)
 - **Developer Experience** - Optimizing workflows and developer productivity
-- **Freelance Development** - Fullstack solutions for your projects
+- **Freelance Development** - Django & Agentic AI solutions for your projects
 - **Technical Mentor & Coach** - Sharing knowledge and best practices
 - **Consulting & Support** - Strategic guidance for your technical challenges
 
@@ -37,20 +38,20 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Django+%7C+React+Expert;DevOps+Enthusiast;10+Years+of+Experience&center=true&width=500&height=50)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Platform+Engineer;Internal+Developer+Platform+(IDP);Django+Expert;Agentic+AI+Developer&center=true&width=500&height=50)
 
 </div>
 
 <div align="left">
 
-I'm a **passionate fullstack developer** with over **10 years of experience** building robust, scalable applications. My expertise spans from backend development with Django to modern frontend solutions with React, all while ensuring seamless DevOps practices.
+I'm an **Internal Developer Platform Engineer & Django Developer** with over **10 years of experience**, AI-augmented in my workflow. At SAFRAN, I designed and ran a self-service Internal Developer Platform (IDP) for **1,000+ developers**, cutting provisioning time from 2-4 weeks down to 2 minutes.
 
 ### 🎯 What I Do
 
-- 🧠 **Passionate developer** with +10 years of experience crafting high-quality software solutions
-- 🌐 **Django expert** with +20 deployed applications in production
-- 🐳 **Docker enthusiast** and advocate for reproducible environments
-- 🚀 **Key player** in digital transformations for startups & large corporations
+- 🧠 **Internal Developer Platform Engineer** - self-service IDPs, Developer Portals (Backstage), Kubernetes/Docker Swarm/OpenShift orchestration
+- 🌐 **Django expert** with +20 deployed applications in production (DRF APIs, real-time dashboards)
+- 🚀 **Agentic AI developer** - LLM, RAG, autonomous agents, MCP Server, orchestrated with n8n, AI-augmented workflows (Claude Code, Cursor, GitHub Copilot)
+- 🎯 **Key player** in digital transformations for aerospace/defense, energy, telecom & SaaS B2B clients
 - 🛠️ **Developer Experience optimizer** - I automate everything that can be automated
 
 ### 💡 My Philosophy
@@ -65,15 +66,17 @@ I believe in writing clean, maintainable code and implementing best practices th
 
 ## 🚀 My Main Expertise
 
+➡️ **Developer Portals & service catalogs** with Backstage, for self-service Developer Experience at scale.
+
 ➡️ **Robust API development** with Django REST Framework, FastAPI, and high-performance ReactJS interfaces.
 
 ➡️ **Structuring, refactoring and modernizing legacy codebases** to improve maintainability and quality.
 
 ➡️ **Celery integration and event-driven architectures** to orchestrate asynchronous processing.
 
-➡️ **Backend best practices deployment** (automated testing, application security, observability and performance optimization).
+➡️ **Backend security best practices** (RBAC, SSO/OIDC, HashiCorp Vault) alongside automated testing and observability.
 
-➡️ **Containerization with Docker and orchestration via Kubernetes** to align dev, staging and production environments.
+➡️ **Containerization with Docker and orchestration via Kubernetes/OpenShift** to align dev, staging and production environments.
 
 ➡️ **Automated, secure and traceable CI/CD pipelines** (GitHub Actions, GitLab CI).
 
@@ -82,6 +85,8 @@ I believe in writing clean, maintainable code and implementing best practices th
 ➡️ **Monitoring & alerting** with Sentry, Prometheus and dashboards for teams.
 
 ➡️ **Automated deployments** on Docker Swarm clusters, Kubernetes, cloud platforms (AWS, OpenShift) or dedicated infrastructures.
+
+➡️ **Agentic AI tooling** - MCP Server, Claude Code and autonomous agents to accelerate development workflows.
 
 ➡️ **Reverse proxy with Nginx** to secure web applications.
 
@@ -124,10 +129,24 @@ I believe in writing clean, maintainable code and implementing best practices th
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+</div>
+
+### 🤖 Agentic AI Tools
+
+<div align="left">
+
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
